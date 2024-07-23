@@ -1,0 +1,2 @@
+tkinter==8.6.12  # GUI toolkit (included with standard Python installations)
+fpdf==1.7.2  # For generating PDF documents
