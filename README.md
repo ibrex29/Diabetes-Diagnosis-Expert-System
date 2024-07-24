@@ -22,4 +22,4 @@ tkinter (included with standard Python installations)
 fpdf (for generating PDF reports)
 
 You can install the required packages using:
-pip install numpy pandas scikit-learn fpdf
+pip install tkinter fpdf
